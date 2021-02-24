@@ -1,1 +1,2 @@
-version=1.51
+config:
+  info: version=2
